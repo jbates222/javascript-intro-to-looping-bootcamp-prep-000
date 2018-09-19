@@ -7,7 +7,7 @@ function forLoop(arr) {
     }
     else {
       var num = i;
-      arr.push('I am ${num} strange loops.');
+      arr.push("I am " + num + " strange loops.");
       
     }
   }
