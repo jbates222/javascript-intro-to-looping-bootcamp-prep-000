@@ -10,7 +10,5 @@ function forLoop(arr) {
       arr.push('I am ${num} strange loops.');
       
     }
-    return arr;
   }
-  return arr;
 }
