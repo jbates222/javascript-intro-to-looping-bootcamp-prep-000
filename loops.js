@@ -20,3 +20,4 @@ function whileLoop(num) {
   }
   return "done";
 }
+function do
