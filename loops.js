@@ -10,7 +10,7 @@ function forLoop(arr) {
     
     }
     else {
-      arr = [...arr, 'I am ${i} strange loops.'];
+      arr = [...arr, 'I am 1 strange loop.'];
       
     }
   }
