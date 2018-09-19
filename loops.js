@@ -5,8 +5,8 @@ function forLoop(arr) {
       arr.unshift("I am 1 strange loop.");
     
     }
-    if (i>1) {
-      arr.push('I am ${i} strange loop.');
+    else {
+      arr.push('I am ${i} strange loops.');
       
     }
   }
