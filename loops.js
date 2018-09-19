@@ -20,4 +20,6 @@ function whileLoop(num) {
   }
   return "done";
 }
-function do
+function doWhileLoop(arr) {
+  
+}
