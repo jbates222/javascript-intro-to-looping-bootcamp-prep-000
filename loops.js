@@ -6,7 +6,7 @@ function forLoop(arr) {
     
     }
     if (i>1) {
-      arr.push('I am 1 strange loop.');
+      arr.push('I am ${i} strange loop.');
       
     }
   }
