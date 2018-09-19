@@ -6,7 +6,7 @@ function forLoop(arr) {
     
     }
     if (i == 1) {
-      arr[0] = "I am 1 strange loop.";
+      arr.unshift("I am 1 strange loop.");
     
     }
     else {
