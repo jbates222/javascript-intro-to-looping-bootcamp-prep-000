@@ -20,6 +20,11 @@ function whileLoop(num) {
   }
   return "done";
 }
+function incrementVariable() {
+  i = i + 1;
+}
 function doWhileLoop(arr) {
-  
+  do {
+    delete 
+  }
 }
